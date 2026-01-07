@@ -1,4 +1,5 @@
 # Projeto de Certificação 1 – Agência de Viagem
+<img width="3787" height="1929" alt="Captura de tela 2026-01-07 183947" src="https://github.com/user-attachments/assets/878106c1-358c-445b-9f16-804d8df81315" />
 
 Este projeto consiste em uma Landing Page responsiva para uma Agência de Viagem fictícia, desenvolvida como parte do Projeto de Certificação 1. O objetivo é apresentar um layout atraente com seções informativas, utilizando HTML5 semântico e CSS3.
 
